@@ -6,7 +6,7 @@ Arqel.Links.Discord = "https://discord.gg/nRYBAHGDV"
 Arqel.Storage.FileName = "Jnkie_key"
 
 Arqel.Options = {}
-Arqel.Options.KeylessUi = "true"
+Arqel.Options.KeylessUi = "false"
 
 Arqel.Theme.Accent = Color3.fromRGB(110, 60, 255)
 Arqel.Theme.AccentHover = Color3.fromRGB(130, 90, 255)
