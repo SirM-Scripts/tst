@@ -3,11 +3,11 @@
 
 local Arqel = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cobruhehe/expert-octo-doodle/refs/heads/main/ArqelUi.luau"))()
 
-Arqel.Appearance.Title = "ProBest"
+Arqel.Appearance.Title = "CRACKED BY SIR-M"
 Arqel.Appearance.Icon = ""
-Arqel.Links.Discord = "Discord.gg/ddQuGjrgX7"
+Arqel.Links.Discord = "https://discord.gg/nRYBAHGDV"
 Arqel.Storage.FileName = "Jnkie_key"
--- Arqel.Options.KeylessUi = "true"
+-- Arqel.Options.KeylessUi = "false"
 
 
 Arqel.Theme.Accent = Color3.fromRGB(110, 60, 255)
@@ -23,10 +23,10 @@ Arqel.Theme.StatusIdle = Color3.fromRGB(120, 100, 200)
 
 
 Arqel.Shop = {
-    Enabled = true,
+    Enabled = false,
     Icon = "",
-    Title = "Get Premium",
-    Subtitle = "Instant delivery • 24/7 support",
+    Title = "Cracked Versiob",
+    Subtitle = "Good Job Dude",
     ButtonText = "Buy",
     Link = "jnkie.com"
 }
