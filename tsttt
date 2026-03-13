@@ -4,7 +4,7 @@ Arqel.Appearance.Title = "CRACKED BY SIR-M"
 Arqel.Appearance.Icon = ""
 Arqel.Links.Discord = "https://discord.gg/nRYBAHGDV"
 Arqel.Storage.FileName = "Jnkie_key"
-Arqel.Options.KeylessUi = true
+Arqel.Options.KeylessUi = "false"
 
 Arqel.Theme.Accent = Color3.fromRGB(110, 60, 255)
 Arqel.Theme.AccentHover = Color3.fromRGB(130, 90, 255)
@@ -20,16 +20,9 @@ Arqel.Theme.StatusIdle = Color3.fromRGB(120, 100, 200)
 Arqel.Shop = {
     Enabled = false,
     Icon = "",
-    Title = "Cracked Versiob",
+    Title = "Cracked Version",
     Subtitle = "Good Job Dude",
-    ButtonText = "Buy",
     Link = "jnkie.com"
-}
-
-Arqel:LaunchJunkie({
-    Service = "All Access",
-    Identifier = "1038332",
-    Provider = "99 nights"
 })
 -- This file was protected using Luraph Obfuscator v14.7 [https://lura.ph/]
 
