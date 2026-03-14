@@ -2,6 +2,10 @@ local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
 Junkie.service = "adit"
 Junkie.identifier = "1005304"
 Junkie.provider = "adit"
+Junkie.check_key = function(key)
+    getgenv().SCRIPT_KEY = key
+    return {valid = true, message = "KEY_VALID", key_valid = true}
+end
 
 local result = (function()
     getgenv().UI_CLOSED = false
